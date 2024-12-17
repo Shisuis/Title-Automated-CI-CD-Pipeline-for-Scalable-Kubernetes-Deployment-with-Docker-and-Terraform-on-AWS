@@ -1,0 +1,1 @@
+# Title-Automated-CI-CD-Pipeline-for-Scalable-Kubernetes-Deployment-with-Docker-and-Terraform-on-AWS
